@@ -1,0 +1,570 @@
+ html{
+         
+            }
+            body{
+                font-family: "playfair display", sans-serif;
+                color:white;
+                background: rgb(17, 31, 53) linear-gradient(90deg, #0000 calc(100% - 1px), rgb(47, 47, 102) 0);
+                background-size: calc((100% - 10*2px)/4);
+                        -webkit-transition: all 0.5s linear; -moz-transition: all 0.5s linear; -o-transition: all 0.5s linear; transition: all 0.5s linear;
+                -webkit-transform: rotate3d(0,0,0,0deg); -moz-transform: rotate3d(0,0,0,0deg); -o-transform: rotate3d(0,0,0,0deg); transform: rotate3d(0,0,0,0deg);
+            }
+            nav{
+                height:30px;
+                background-color:inherit;
+
+            }
+            
+            .link{
+                float:right;
+                color:white;
+                margin-right:50px;
+            }
+            .nav-item{
+                width:100%;
+                padding-top:20px;
+                margin:0 auto;
+            }
+            a{
+                text-decoration:none;
+            }
+            
+         #jumbo{
+            height:90vh;
+            margin-top:30px;
+            padding-top:50px;
+            margin-bottom:50px;
+           
+         }
+         .major-1{
+            margin-top:80px;
+         }
+         .jumbo-text{
+            font-size:42px;
+            font-weight:bold;
+           
+         }
+         .sub-txt{
+            color:grey;
+            font-size:15px;
+         }
+         .mybtn{
+            width:150px;
+            height:40px;
+            background-color:rgb(93, 93, 253);
+            color:white;
+            border-style:none;
+            border-radius:20px;
+         
+         }
+         #second{
+            margin-top:100px;
+         }
+         .head{
+            color:rgb(149, 250, 250);
+            font-size:16px;
+            font-weight:light;
+         }
+         .topic{
+            font-size:28px;
+            font-weight:600;
+         }
+         .text{
+            color:grey;
+            font-size:15px;
+            text-align:justify;
+         }
+         li{
+            color:grey;
+             font-size:15px;
+             margin-left:-12px;
+         }
+        
+        .col-sm-12{
+             width:auto;
+             margin:0 auto;
+            text-align:center;
+        }
+        #third{
+            margin-top:50px;
+             }
+
+
+.stack{
+    font-weight:bold;
+}
+#fourth{
+    margin-top:50px;
+}
+.combo{
+    height:400px;
+   margin-bottom:20px;
+    border-radius:10px;
+    color:white;
+    background-color: rgb(2, 18, 44);
+}
+.imgx{
+    height:80%;
+    width:100%;
+    background-color:red;
+}
+#img-1{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/newdarkk.jpg");
+    background-size:cover;
+}
+#img-2{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/newdarko.jpg");
+    background-size:cover;
+}
+#img-3{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/newdarkp.jpg");
+    background-size:cover;
+}
+.combo-txt{
+    font-weight:bold;
+    font-size:24px;
+}
+#fifth{
+    margin-top:100px;
+    height:500px;
+    margin-bottom:300px;
+    
+}
+
+.image{
+    height:500px;
+    width:100%;
+    margin:0 auto;
+    border-radius:20px;
+    object-fit:cover;
+ background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/20210717_074359.jpg");
+  
+}
+
+
+.mybtn-2{
+    width:200px;
+    height:40px;
+    color:white;
+    border-radius:20px;
+    border-style:none;
+    background-color:rgb(149, 250, 250);
+    margin-top:20px;
+}
+#sixth{
+    margin-top:150px;
+    object-fit:cover;
+    background-color: white;
+    height:500px;
+}
+.center{
+    width:80%;
+    height:300px;
+    position:relative;
+   top:100px;
+    margin:0 auto;
+
+    background-color: rgb(17, 31, 53);
+    border-radius:20px;
+}
+.top{
+    padding-top:20px;
+}
+#last{
+    height:300px;
+}
+.links{
+    margin-right:20px;
+   
+}
+.linkx{
+    color:rgb(168, 164, 164);
+    margin-right:20px;
+    
+}
+.down-txt{
+    font-weight:bold;
+    font-size:24px;
+}
+.lastx{
+    margin-top:25px;
+    
+}
+.middle{
+    width:70%;
+    margin:0 auto;
+}
+.badge{
+    height:550px;
+    width:100%;
+    margin-bottom: 20px;
+    background-color:rgb(9, 24, 48);
+    border-radius:15px;
+
+}
+.badge-img{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/brainers.png");
+    background-position: center;
+    background-size: cover;
+    height:75%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.badge-img:hover{
+    
+    filter:blur(1px);
+    transition:all is ease;
+}
+.badge-img1{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/travelp.png");
+    background-position: center;
+    background-size: cover;
+    height:75%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.badge-img1:hover{
+    filter:blur(1px);
+}
+.badge-img2{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/viv.png");
+    background-position: center;
+    background-size: cover;
+    height:75%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.badge-img2:hover{
+    filter:blur(1px);
+}
+.badge-img3{
+    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/axion");
+    background-position: center;
+    background-size: cover;
+    height:75%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.badge-img3:hover{
+    filter:blur(1px);
+}
+.badge-head{
+    color:aquamarine;
+    font-weight:100;
+    font-size:24px;
+   
+}
+.badge-title{
+    font-size:35px;
+}
+.badge-txt{
+    margin-top:20px; 
+    text-align:left; 
+    padding-left:10px; 
+}
+.mybtn3{
+   
+    width:150px;
+    height:50px;
+    color:aquamarine;
+    font-weight:900;
+    border-style:1px solid black;
+    border-radius:25px;
+  position:relative;
+    visibility: hidden;
+    margin-top:-40%;
+   
+}
+.mybtn4{
+   
+   width:150px;
+   height:50px;
+   font-weight:900;
+   color:aquamarine;
+   border-style:1px solid black;
+   border-radius:25px;
+ position:relative;
+   visibility: hidden;
+   margin-top:-40%;
+  
+}
+.mybtn5{
+   
+   width:150px;
+   height:50px;
+   color:aquamarine;
+   font-weight:900;
+   border-style:1px solid black;
+   border-radius:25px;
+ position:relative;
+   visibility: hidden;
+   margin-top:-40%;
+  
+}
+.mybtn6{
+   
+   width:150px;
+   height:50px;
+   color:aquamarine;
+   font-weight:900;
+   border-style:1px solid black;
+   border-radius:25px;
+ position:relative;
+   visibility: hidden;
+   margin-top:-40%;
+  
+}
+
+.badge-img:hover + .mybtn3 {
+   visibility:visible;
+   background-color:initial;
+   transition: ease;
+}
+.axle:hover{
+    visibility:visible;
+    color:white;
+    background-color:aquamarine;
+    border-style:none; 
+}
+.badge-img1:hover + .mybtn4 {
+   visibility:visible;
+   background-color:initial;
+   transition: ease;
+}
+.badge-img2:hover + .mybtn5 {
+   visibility:visible;
+   background-color:initial;
+   transition: ease;
+}
+.badge-img3:hover + .mybtn6 {
+   visibility:visible;
+   background-color:initial;
+   transition: ease;
+}
+
+.image-div{
+               width:100%;
+               margin:0 auto;
+                background-image: url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/lasse-jensen-fSSO5U_iwzk-unsplash.jpg");
+                background-size:cover;
+                height:70vh;
+                box-shadow: 0px 4px 8px 0px rgba(6, 1, 51, 0.2); 
+                border-top-left-radius: 180px;
+                border-bottom-right-radius: 180px;
+                -webkit-transition: all 0.5s linear; -moz-transition: all 0.5s linear; -o-transition: all 0.5s linear; transition: all 0.5s linear;
+                -webkit-transform: rotate3d(0,0,0,0deg); -moz-transform: rotate3d(0,0,0,0deg); -o-transform: rotate3d(0,0,0,0deg); transform: rotate3d(0,0,0,0deg);
+            }
+            .image-div:hover{
+                width:100%;
+                background-size:cover;
+                background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/gra.jpeg");
+                filter:sepia(1);
+                box-shadow: 0px 4px 8px 0px rgba(6, 1, 51, 0.2); 
+                -webkit-transition: all 0.5s linear; -moz-transition: all 0.5s linear; -o-transition: all 0.5s linear; transition: all 0.5s linear;
+                -webkit-transform: rotate3d(0,0,0,0deg); -moz-transform: rotate3d(0,0,0,0deg); -o-transform: rotate3d(0,0,0,0deg); transform: rotate3d(0,0,0,0deg);
+            }
+
+            @media(max-width:767px){
+  
+    
+    .image-div{
+        display:none;
+    }
+   
+    .mybtn{
+        margin-top:0;
+        margin-left:10px;
+    }
+    .jumbo-text{
+        font-size:35px;
+    }
+}
+
+.js-scroll {
+opacity: 0;
+transition: opacity 1000ms;
+}
+
+.js-scroll.scrolled {
+opacity: 1;
+}
+
+.scrolled.fade-in {
+animation: fade-in 1s ease-in-out both;
+}
+
+.scrolled.fade-in-bottom {
+animation: fade-in-bottom 1s ease-in-out both;
+}
+
+.scrolled.slide-left {
+animation: slide-in-left 1s ease-in-out both;
+}
+
+.scrolled.slide-right {
+animation: slide-in-right 1s ease-in-out both;
+}
+
+.overlay {
+  /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+  height: 100%;
+  width: 0;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  background-color: rgb(53, 49, 49); /* Black fallback color */
+  background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+  position: relative;
+  top:90px;/* 25% from the top */
+  width: 100%; /* 100% width */
+  text-align: center; /* Centered text/links */
+  margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block; /* Display block instead of inline */
+  transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+} 
+
+@keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in-right {
+  0% {
+    -webkit-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in-bottom {
+  0% {
+    -webkit-transform: translateY(50px);
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.burger {
+  display: flex;
+  display: none;
+  outline: none;
+  height: 20px;
+  width: 15px;
+  border: 0px;
+  padding: 20px;
+  background: transparent;
+  transition: all 250ms ease-out;
+  cursor: pointer;
+  
+}
+.burger:before {
+  transform: translateY(-3px);
+}
+
+.burger:after {
+  transform: translateY(3px);
+}
+.burger:before, .burger:after {
+  content: '';
+  width: 15px;
+  height: 2px;
+  position: absolute;
+  background: #f8f3f3;
+  transition: all 250ms ease-out;
+  will-change: transform;
+}
+
+
+.overlay-text{
+    color: white;
+  font-size: 15px;
+ 
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  width:80%;
+  text-align: center;
+  
+  margin-left:50%;
+}
+@media(max-width:767px){
+  
+  
+.majorNav{
+  display:none;
+}
+.burger{
+  display:block;
+}
+#nav-div{
+  height:40px;
+}
+#jumbo{
+    margin-top:-40px;
+}
+}
