@@ -109,15 +109,15 @@
     background-color:red;
 }
 #img-1{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/newdarkk.jpg");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296348-0d281c63-a1da-4ada-85c8-0c0e4d87ce66.jpg");
     background-size:cover;
 }
 #img-2{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/newdarko.jpg");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296346-0309510e-8efd-48ad-8056-fb34e63b08e6.jpg");
     background-size:cover;
 }
 #img-3{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/newdarkp.jpg");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296348-0d281c63-a1da-4ada-85c8-0c0e4d87ce66.jpg");
     background-size:cover;
 }
 .combo-txt{
@@ -137,7 +137,7 @@
     margin:0 auto;
     border-radius:20px;
     object-fit:cover;
- background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/20210717_074359.jpg");
+ background-image:url("https://user-images.githubusercontent.com/88199551/235296337-f83dc7c4-ef89-4d89-b7d6-b503db99ce3a.jpg");
   
 }
 
@@ -203,7 +203,7 @@
 
 }
 .badge-img{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/brainers.png");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296340-0b39fbe6-5aee-49d0-b938-568289a8fcf9.png");
     background-position: center;
     background-size: cover;
     height:75%;
@@ -217,7 +217,7 @@
     transition:all is ease;
 }
 .badge-img1{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/travelp.png");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296266-8f83a82d-1836-4faa-8a0e-dca05ef6f144.png");
     background-position: center;
     background-size: cover;
     height:75%;
@@ -228,7 +228,7 @@
     filter:blur(1px);
 }
 .badge-img2{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/viv.png");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296322-d3127572-d735-4a9e-9903-68389765df7a.png");
     background-position: center;
     background-size: cover;
     height:75%;
@@ -239,7 +239,7 @@
     filter:blur(1px);
 }
 .badge-img3{
-    background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/axion");
+    background-image:url("https://user-images.githubusercontent.com/88199551/235296345-36fa9c9a-e647-4508-adf0-caa453bc0034.jpeg");
     background-position: center;
     background-size: cover;
     height:75%;
@@ -346,7 +346,7 @@
 .image-div{
                width:100%;
                margin:0 auto;
-                background-image: url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/lasse-jensen-fSSO5U_iwzk-unsplash.jpg");
+                background-image: url("https://user-images.githubusercontent.com/88199551/235296784-ff5fcb71-6723-4810-b0b0-f47de52f8407.jpg
                 background-size:cover;
                 height:70vh;
                 box-shadow: 0px 4px 8px 0px rgba(6, 1, 51, 0.2); 
@@ -358,7 +358,7 @@
             .image-div:hover{
                 width:100%;
                 background-size:cover;
-                background-image:url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/gra.jpeg");
+                background-image:url("https://user-images.githubusercontent.com/88199551/235296345-36fa9c9a-e647-4508-adf0-caa453bc0034.jpeg");
                 filter:sepia(1);
                 box-shadow: 0px 4px 8px 0px rgba(6, 1, 51, 0.2); 
                 -webkit-transition: all 0.5s linear; -moz-transition: all 0.5s linear; -o-transition: all 0.5s linear; transition: all 0.5s linear;
